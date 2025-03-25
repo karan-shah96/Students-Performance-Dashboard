@@ -22,10 +22,11 @@ Easily filter data by parental education, resource access level, and sleep hours
 
 - **Resources Access vs. Exam Scores**  
   A pie chart showing average scores based on students’ access to learning resources (low, medium, high).
+ !(ExamScoreByParentalEduAndAccessToResources.png)
 
 - **Exam Score by Parental Education Level**  
   A bar chart highlighting how parental education levels correlate with student scores and available resources.  
-  ![Parental Education and Resource Access](ExamScoreByParentalEduAndAccessToResources.png)
+ ![Parental Education and Resource Access](ExamScoreByParentalEduAndAccessToResources.png)
 
 - **Exam Score by Sleep Hours**  
   A line graph depicting the relationship between sleep duration and student performance.  
